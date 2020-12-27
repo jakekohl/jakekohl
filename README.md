@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi, I am Jacob Kohl!
 
-<!--
-**jakekohl/jakekohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Basics
+
+* Current City: Fargo, ND
+* Education: Bachelor of Science (Computer Science/Philosophy) Concordia College (MN)
+* Happily Married
+* Employed Full Time
+* Dog Dad
+
+### Interests
+
+* SQL Server / Database technologies
+* Running / Hiking
+* Travel / Adventuring
+* Overwatch / Gaming
+* Reading / Podcasts
+* Technology / Productivities
+
+### Currently Learning
+
+* Python Fundamentals
+* TSQL and advanced SQL Server Management
+* Windows Powershell Scripting
+
+### Horizons
+
+* Cloud Technologies 
+* Career Advancement
+
+### Contacts
+
+* Discord: jacobofwonder#6153
