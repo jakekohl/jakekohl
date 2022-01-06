@@ -5,14 +5,16 @@
 ### Basics
 
 * Current City: Fargo, ND
-* Education: Bachelor of Science (Computer Science/Philosophy) Concordia College (MN)
+* Education: Bachelor of Arts (Computer Science/Philosophy) Concordia College (MN)
 * Happily Married
 * Employed Full Time
 * Dog Dad
+* Soon to be real Dad
 
 ### Interests
 
 * SQL Server / Database technologies
+* Python / Logic
 * Running / Hiking
 * Travel / Adventuring
 * Overwatch / Gaming
