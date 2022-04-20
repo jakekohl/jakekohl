@@ -5,11 +5,10 @@
 ### Basics
 
 * Current City: Fargo, ND
-* Education: Bachelor of Arts (Computer Science/Philosophy) Concordia College (MN)
-* Happily Married
+* Education: Bachelor of Arts (Computer Science/Philosophy) - Concordia College
+* Happily Married with a Newborn Daughter
 * Employed Full Time
-* Dog Dad
-* Soon to be real Dad
+* Dog Dad 
 
 ### Interests
 
@@ -17,7 +16,7 @@
 * Python / Logic
 * Running / Hiking
 * Travel / Adventuring
-* Overwatch / Gaming
+* Overwatch / Pokemon
 * Reading / Podcasts
 * Technology / Productivities
 
@@ -34,4 +33,5 @@
 
 ### Contacts
 
+* Email: jacob.jp.kohl@gmail.com
 * Discord: jacobofwonder#6153
