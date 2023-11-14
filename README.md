@@ -1,37 +1,39 @@
-# Hi, I am Jake Kohl!
+# Hi, I am Jake Kohl! 👋
 
 
 
 ### Basics
 
 * Current City: Fargo, ND
-* Education: Bachelor of Arts (Computer Science/Philosophy) - Concordia College
-* Happily Married with a Newborn Daughter
-* Employed Full Time
+* Employment: Tagboard
+* Education: Bachelor of Arts (Computer Science/Philosophy) - Concordia College Moorhead
+* Married (2020)
+* Father
 * Dog Dad 
 
-### Interests
+### Interests & Hobbies
 
-* SQL Server / Database technologies
-* Python / Logic
-* Running / Hiking
-* Travel / Adventuring
-* Overwatch / Pokemon
-* Reading / Podcasts
-* Technology / Productivities
+* Running
+* SQL Server
+* Scripting
+* Overwatch 2
+* Make Me Smart / Deep Questions with Cal Newport
+* Pokemon Go
+* Traveling
+* Hiking
 
 ### Currently Learning
 
-* Python Fundamentals
-* TSQL and advanced SQL Server Management
-* Windows Powershell Scripting
+* Python
+* JavaScript
 
 ### Horizons
 
-* Cloud Technologies 
-* Career Advancement
+* 
 
 ### Contacts
 
 * Email: jacob.jp.kohl@gmail.com
-* Discord: jacobofwonder#6153
+* X (Twitter): @jacobofwonder
+* Instagram: @jake_tgb
+* Discord: hawkeye.59
