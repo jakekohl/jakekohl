@@ -26,6 +26,5 @@
 ### Contacts
 
 * Email: jacob.jp.kohl@gmail.com
-* X (Twitter): @jacobofwonder
-* Instagram: @jake_tgb
+* BlueSky: [@jacobofwonder](https://bsky.app/profile/jacobofwonder.bsky.social)
 * Discord: hawkeye.59
