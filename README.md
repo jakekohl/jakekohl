@@ -3,28 +3,35 @@
 ### Basics
 
 * Current City: Fargo, ND
-* Employment: Tagboard
-* Education: Bachelor of Arts (Computer Science/Philosophy) - Concordia College Moorhead
+* Employment: Searching!
+* Education: Bachelor of Arts (Computer Science/Philosophy) - [Concordia College Moorhead](https://www.concordiacollege.edu/)
 * Married (2020)
-* Father (2022)
+* Father of 1 (2022)
+
+### Work Experience
+
+* **Tagboard** - Quality Assurance Engineer & Technical Support Lead
+* **Infor** - Support Operations Manager
+* **Intelligent InSites** - Senior Technical Services Engineer / Quality Assurance Engineer
+* **Microsoft/VMC** - SharePoint Online Support Training Lead / Premier Support Engineer
 
 ### Skills
 
 * Javascript
 * Cypress Test Automation
 * TSQL / SQL Server Administration
-* HubSpot Administrator / HubSpot Development
+* AWS Cloud Infrastructure Manegement 
+* HubSpot Administration & Development
 * Powershell / Windows Command Line scripting
 
 ### Interests & Hobbies
 
 * Running
-* Overwatch 2 / Pokemon Go
 * Podcasts / Reading
 * Traveling / Hiking
 
 ### Contacts
 
-* Email: jacob.jp.kohl@gmail.com
-* BlueSky: [@jacobofwonder](https://bsky.app/profile/jacobofwonder.bsky.social)
+* Email: [jacob.jp.kohl@gmail.com](mailto:jacob.jp.kohl@gmail.com)
+* LinkedIn: [Jacob Kohl](https://www.linkedin.com/in/jacob-jp-kohl/)
 * Discord: hawkeye.59
