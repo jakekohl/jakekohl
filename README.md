@@ -4,7 +4,7 @@
 
 * Current City: Fargo, ND
 * Employment: Searching!
-* Education: Bachelor of Arts (Computer Science/Philosophy) - [Concordia College Moorhead](https://www.concordiacollege.edu/)
+* Education: Bachelor of Arts (Computer Science/Philosophy) - [Concordia College Moorhead](https://www.concordiacollege.edu/) (2012)
 * Married (2020)
 * Father of 1 (2022)
 
@@ -15,12 +15,12 @@
 * **Intelligent InSites** - Senior Technical Services Engineer / Quality Assurance Engineer
 * **Microsoft/VMC** - SharePoint Online Support Training Lead / Premier Support Engineer
 
-### Skills
+### Technical Skills
 
-* Javascript
+* Javascript / Python
 * Cypress Test Automation
 * TSQL / SQL Server Administration
-* AWS Cloud Infrastructure Manegement 
+* AWS Cloud Infrastructure Management 
 * HubSpot Administration & Development
 * Powershell / Windows Command Line scripting
 
