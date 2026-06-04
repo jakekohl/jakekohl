@@ -3,13 +3,14 @@
 ### Basics
 
 * Current City: Fargo, ND
-* Employment: Searching!
+* Employment: Full Time
 * Education: Bachelor of Arts (Computer Science/Philosophy) - [Concordia College Moorhead](https://www.concordiacollege.edu/) (2012)
 * Married (2020)
 * Father of 1 (2022)
 
 ### Work Experience
 
+* **Vantaca** - T2 Support Engineer
 * **Tagboard** - Quality Assurance Engineer & Technical Support Lead
 * **Infor** - Support Operations Manager
 * **Intelligent InSites** - Senior Technical Services Engineer / Quality Assurance Engineer
@@ -18,7 +19,7 @@
 ### Technical Skills
 
 * Javascript / Python
-* Cypress Test Automation
+* Cypress / Playwright Test Automation
 * TSQL / SQL Server Administration
 * AWS Cloud Infrastructure Management 
 * HubSpot Administration & Development
